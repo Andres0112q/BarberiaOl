@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BarberiaOl.Entities/BarberiaOl.Entities.csproj" />
+  <Project Path="BarberiaOl.Repositories/BarberiaOl.Repositories.csproj" />
+  <Project Path="BarberiaOl.Services/BarberiaOl.Services.csproj" />
+  <Project Path="BarberiaOl.Web/BarberiaOl.Web.csproj" />
+</Solution>
